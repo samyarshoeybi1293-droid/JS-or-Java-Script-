@@ -1,2 +1,5 @@
 # JS-or-Java-Script-
-this repository isay from js 
+hi i,m samyar i love programing . 
+const Newpargrath = document.createElement('button') 
+Newpargrath.textContent = 'hi i,m samyar shoeybi '
+document.querySelector('body').appendChild(Newpargrath)
